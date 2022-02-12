@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BossSpawnLimiter", "BossSpawnLimiter\BossSpawnLimiter.csproj", "{15486CAD-2A1D-4C22-8B80-7A24D7F23B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15486CAD-2A1D-4C22-8B80-7A24D7F23B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15486CAD-2A1D-4C22-8B80-7A24D7F23B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15486CAD-2A1D-4C22-8B80-7A24D7F23B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15486CAD-2A1D-4C22-8B80-7A24D7F23B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C14C010A-742E-4993-A74A-CA57FDF516A4}
+	EndGlobalSection
+EndGlobal
