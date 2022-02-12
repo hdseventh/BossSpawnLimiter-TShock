@@ -30,7 +30,7 @@ namespace BossSpawnLimiter
 
         public void OnInitialize(EventArgs args)
         {
-            Commands.ChatCommands.Add(new Command(menuBSL, "bslreset"));
+            Commands.ChatCommands.Add(new Command("bsl.adminbypass",menuBSL, "bslreset"));
 
             timerchecker.Interval = 10000;
             timerchecker.AutoReset = true;
